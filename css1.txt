@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>setting background image</title>
+<style type="text/css>
+body{
+background-image=image .url("hloo.jpg");
+}
+</style>
+</head>
+<body text="setting a background image">
+</body>
+</html>
